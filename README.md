@@ -51,7 +51,7 @@ Practices: REST APIs, MVC, Object-Oriented Design, Data Structures, Algorithms, 
 
 🏆 Extracurriculars
 	•	Competitor in Les Trophées NSI and Algoréa coding challenges
-	•	Solved 50+ DSA problems on LeetCode (Java)
+	•	Solved 75+ DSA problems on LeetCode (Java)
 	•	Daily strength training & discipline since 2023
 	•	Contributed to a local government website (miloverada.gov.ua)
 
